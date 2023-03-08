@@ -3,4 +3,4 @@ Resolusi
 -mempunyai webside 
 -bisa menggunakan bootstrap, tailwind, react.js
 -bisa upgrade laptop ke 16gb ram
--bisa membeli monitor 2jutaan
+-bisa membeli monitor
